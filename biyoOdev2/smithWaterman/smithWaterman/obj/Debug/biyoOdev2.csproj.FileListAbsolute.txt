@@ -1,0 +1,11 @@
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\obj\Debug\biyoOdev2.csproj.AssemblyReference.cache
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\obj\Debug\biyoOdev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\obj\Debug\biyoOdev2.csproj.GenerateResource.cache
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\obj\Debug\biyoOdev2.csproj.CoreCompileInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\obj\Debug\smithWaterman.Form1.resources
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\bin\Debug\Watermanalgorithm.exe.config
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\bin\Debug\Watermanalgorithm.exe
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\bin\Debug\Watermanalgorithm.pdb
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\obj\Debug\Watermanalgorithm.exe
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\obj\Debug\Watermanalgorithm.pdb
+C:\Users\serka\OneDrive\Masaüstü\biyoOdev2\smithWaterman\smithWaterman\obj\Debug\watermanagorithm.Properties.Resources.resources
